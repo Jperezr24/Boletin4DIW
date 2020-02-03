@@ -1,0 +1,66 @@
+body {
+    background: #FCC98B;
+}
+
+.tituloPrincipal {
+    color: black;
+    text-align: center;
+}
+
+div.left {
+    border-style: solid;
+    margin-left: 500px;
+    margin-right: 10 px;
+    background-color: #FFDE78;
+    float: left;
+}
+
+div.right {
+    border-style: solid;
+    margin-right: 10 px;
+    margin-left: 13px;
+    float: left;
+    background-color: #FFDE78;
+}
+
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.tg td {
+    font-family: Arial, sans-serif;
+    fontsize: 14px;
+    padding: 10px 5px;
+    border-style: solid;
+    borderwidth: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+}
+
+.tg th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    fontweight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    borderwidth: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+}
+
+.tg .tg-baqh {
+    text-align: center;
+    vertical-align: middle
+}
+
+.tg .tg-nrix {
+    text-align: center;
+    vertical-align: middle
+}
+
+.imagen {
+    height: 200px;
+}

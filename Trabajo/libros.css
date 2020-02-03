@@ -1,0 +1,97 @@
+body {
+    background: #FCC98B;
+}
+
+.navbar {
+    margin: 1%;
+}
+
+.tituloPrincipal {
+    color: black;
+    text-align: center;
+}
+
+.search {
+    size: 400;
+}
+
+.vertical-menu {
+    margin-left: 13px;
+    margin-right: 10 px;
+    float: left;
+    width: 200px;
+    /* Set a width if you like */
+    padding: 20px;
+}
+
+.vertical-menu a {
+    background-color: #eee;
+    /* Grey background color */
+    color: black;
+    /* Black text color */
+    display: block;
+    /* Make the links appear below each other */
+    padding: 12px;
+    /* Add some padding */
+    text-decoration: none;
+    /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc;
+    /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+    background-color: rgb(42, 42, 42);
+    /* Add a green color to the "active/current" link
+        */
+    color: white;
+}
+
+div.right {
+    margin-top: 20px;
+    margin-right: 10 px;
+    margin-left: 13px;
+    float: left;
+    width: 1550px;
+    height: 575px;
+    background-color: rgb(245, 225, 167);
+}
+
+div.Table {
+    display: table;
+    width: 100%;
+}
+
+.divTableRow {
+    display: table-row;
+}
+
+.divTableHeading {
+    display: table-header-group;
+}
+
+.divTableCell,
+.divTableHead {
+    display: table-cell;
+    padding: 3px 10px;
+}
+
+.divTableHeading {
+    display: table-header-group;
+    font-weight: bold;
+}
+
+.divTableFoot {
+    display: table-footer-group;
+    font-weight: bold;
+}
+
+.divTableBody {
+    display: table-row-group;
+}
+
+.imagenes {
+    margin: 10 px;
+}

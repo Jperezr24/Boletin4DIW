@@ -1,0 +1,64 @@
+body {
+    background: #FCC98B;
+}
+
+.tituloPrincipal {
+    color: black;
+    text-align: center;
+}
+
+.navbar {
+    margin: 1%;
+}
+
+div.padre {
+    margin-left: 300px;
+}
+
+div.left {
+    border-style: solid;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10 px;
+    float: left;
+    background-color: rgb(255, 231, 191);
+}
+
+div.center {
+    border-style: solid;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10 px;
+    float: left;
+    background-color: rgb(255, 231, 191);
+    ;
+}
+
+div.right {
+    border-style: solid;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10 px;
+    float: left;
+    background-color: rgb(255, 231, 191);
+    ;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagenes {
+    width: 90%;
+    height: 240px;
+}
+
+.texto {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.videoDescargado {
+    margin: 1%;
+}
